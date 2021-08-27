@@ -3,7 +3,7 @@ layout: post
 ---
 
 
- 5 Career Cluster Jobs:
+Psychologists
 
 Psychologists 
   * Study mental processes and human behavior
